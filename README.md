@@ -1,4 +1,4 @@
-materials
-=========
+Rails Girls materials
+=====================
 
-Rails Girls materials for organisers
+A repository for materials for organisers of Rails Girls events.
